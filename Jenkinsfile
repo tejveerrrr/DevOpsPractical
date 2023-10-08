@@ -53,7 +53,7 @@ pipeline {
                 sh 'mvn install'
             }
         }
-        stage('execting generate jar') {
+        stage('executing generate jar') {
             steps {
                 echo 'Executing the generate jar file'
                 sh 'java -jar ./target/Sum.jar 10 25 30 55 67 89'
