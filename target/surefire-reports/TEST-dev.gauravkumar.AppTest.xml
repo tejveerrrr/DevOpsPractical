@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="dev.gauravkumar.AppTest" time="0.01" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="dev.gauravkumar.AppTest" time="0.013" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="/home/gaurav/.sdkman/candidates/java/21-open/lib"/>
-    <property name="sun.java.command" value="/home/gaurav/IdeaProjects/ws_1_3/target/surefire/surefirebooter13421982086590686870.jar /home/gaurav/IdeaProjects/ws_1_3/target/surefire 2023-10-08T15-38-36_796-jvmRun1 surefire1289785840763272162tmp surefire_012416498129868488813tmp"/>
+    <property name="sun.java.command" value="/home/gaurav/IdeaProjects/ws_1_3/target/surefire/surefirebooter17217807899877245938.jar /home/gaurav/IdeaProjects/ws_1_3/target/surefire 2023-10-08T16-31-02_614-jvmRun1 surefire7902241697449957874tmp surefire_011165132941895983855tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/home/gaurav/IdeaProjects/ws_1_3/target/test-classes:/home/gaurav/IdeaProjects/ws_1_3/target/classes:/home/gaurav/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/gaurav/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -27,7 +27,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="surefire.real.class.path" value="/home/gaurav/IdeaProjects/ws_1_3/target/surefire/surefirebooter13421982086590686870.jar"/>
+    <property name="surefire.real.class.path" value="/home/gaurav/IdeaProjects/ws_1_3/target/surefire/surefirebooter17217807899877245938.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21+35-2513"/>
     <property name="user.name" value="gaurav"/>
@@ -40,6 +40,7 @@
     <property name="localRepository" value="/home/gaurav/.m2/repository"/>
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="idea.version" value="2023.2.2"/>
     <property name="java.version" value="21"/>
     <property name="user.dir" value="/home/gaurav/IdeaProjects/ws_1_3"/>
     <property name="os.arch" value="amd64"/>
