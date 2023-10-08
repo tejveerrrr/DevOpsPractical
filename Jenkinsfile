@@ -1,4 +1,3 @@
-Write a Scripted Pipeline to execute the build pipeline with all the 9 goals of Maven.
 pipeline {
     agent any
     tools {
